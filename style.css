@@ -38,6 +38,7 @@ input::-webkit-outer-spin-button,
 #input-text {
     font-weight: 800;
     font-size: 28pt;
+    text-align: center;
 }
 
 #input-field input {
@@ -64,10 +65,14 @@ input::-webkit-outer-spin-button,
 
 .output-container {
     background-color: #1F2937;
+    padding: 20px;
 }
 
 .output-unit {
     background-color: #273549;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
 }
 
 .output-unit h1 {
